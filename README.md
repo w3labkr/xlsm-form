@@ -8,4 +8,4 @@ Please see [CHANGELOG](CHANGELOG) for more information what has changed recently
 
 
 ## License   
-vba2016-form is licensed under the [MIT LICENSE](LICENSE)   
+This software is licensed under the [MIT LICENSE](LICENSE)   
